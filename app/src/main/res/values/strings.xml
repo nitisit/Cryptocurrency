@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="hint_search">ค้นหา</string>
+</resources>
